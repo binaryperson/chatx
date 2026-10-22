@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 💬 ChatX
 
 ### Real-time room-based chat built with React, Spring Boot, WebSockets, and MongoDB
