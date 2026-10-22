@@ -279,6 +279,6 @@ goals.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Built with React, Spring Boot, WebSockets, and MongoDB.**
 :::
