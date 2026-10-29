@@ -37,14 +37,14 @@ Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?logo=springboot&logo
 
   Area               Technologies
   ------------------ --------------------------------------------
-  Frontend           React 18, Vite 6, React Router
-  Styling & UI       Tailwind CSS, React Icons, React Hot Toast
-  HTTP requests      Axios
-  Real-time client   STOMP.js, SockJS
-  Backend            Java, Spring Boot
-  Backend APIs       Spring Web, Spring WebSocket
-  Database           MongoDB, Spring Data MongoDB
-  Build tools        npm, Maven
+ - Frontend           React 18, Vite 6, React Router
+ - Styling & UI       Tailwind CSS, React Icons, React Hot Toast
+ - HTTP requests      Axios
+ - Real-time client   STOMP.js, SockJS
+ - Backend            Java, Spring Boot
+ - Backend APIs       Spring Web, Spring WebSocket
+ - Database           MongoDB, Spring Data MongoDB
+ - Build tools        npm, Maven
 
 ## 🗂️ Project structure
 
