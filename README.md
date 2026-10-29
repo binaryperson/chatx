@@ -33,18 +33,18 @@ Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?logo=springboot&logo
 -   **Responsive single-page frontend** --- React, React Router,
     Tailwind CSS, and toast notifications.
 
-## 🧰 Tech stack
+## 🧰 Tech Stack
 
-  Area               Technologies
-  ------------------ --------------------------------------------
- - Frontend           React 18, Vite 6, React Router
- - Styling & UI       Tailwind CSS, React Icons, React Hot Toast
- - HTTP requests      Axios
- - Real-time client   STOMP.js, SockJS
- - Backend            Java, Spring Boot
- - Backend APIs       Spring Web, Spring WebSocket
- - Database           MongoDB, Spring Data MongoDB
- - Build tools        npm, Maven
+| Area | Technologies |
+|---|---|
+| **Frontend** | React 18, Vite 6, React Router |
+| **Styling & UI** | Tailwind CSS, React Icons, React Hot Toast |
+| **HTTP Requests** | Axios |
+| **Real-Time Communication** | STOMP.js, SockJS |
+| **Backend** | Java, Spring Boot |
+| **Backend APIs** | Spring Web, Spring WebSocket |
+| **Database** | MongoDB, Spring Data MongoDB |
+| **Build Tools** | npm, Maven |
 
 ## 🗂️ Project structure
 
